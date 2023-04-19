@@ -16,6 +16,8 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Aleksa0308/Entr-hub/total) ![Contributors](https://img.shields.io/github/contributors/Aleksa0308/Entr-hub?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aleksa0308/Entr-hub) ![License](https://img.shields.io/github/license/Aleksa0308/Entr-hub) 
 
+## Demo Admin ==> Username: Demo  Password: demo123
+
 ## About The Project
 [![Image from Gyazo](https://i.gyazo.com/2ba057133a55c5195b1b2f835c226ed6.gif)](https://gyazo.com/2ba057133a55c5195b1b2f835c226ed6)
 
